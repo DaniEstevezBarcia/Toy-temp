@@ -18,8 +18,6 @@ source("20-29_Coding/21_Source/21.02_Booting/wololo.R")
 
 library("awesome")
 
-
-
 # Specific functions
 
 # Specific vectors and definitions
